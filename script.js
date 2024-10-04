@@ -1,4 +1,4 @@
-let deadline = new Date("Aug 13, 2024 12:00:00").getTime();
+let deadline = new Date("Aug 13, 2025 12:00:00").getTime();
 let x = setInterval(function() {
 let date = new Date().getTime()
 let tLeft = deadline-date
